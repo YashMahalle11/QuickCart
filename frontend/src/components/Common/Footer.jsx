@@ -14,7 +14,7 @@ const Footer = () => {
         <div>
             <h3 className='text-lg text-gray-800 mb-4'>🌾 Newsletter</h3>
             <p className='text-gray-500 mb-4'>
-            Stay connected with AgriLink!
+            Stay connected with QuickCart!
             Get the latest updates on fresh farm produce, seasonal deals, and exclusive offers — delivered straight from our farms to your inbox. 
             </p>
             <p className='font-medium text-sm text-gray-600 mb-6'>
