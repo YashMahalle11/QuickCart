@@ -11,7 +11,7 @@ const FeaturesSection = () => {
   return (
     <section className="py-16 px-4 bg-white">
       <div className="text-center mb-10">
-        <h2 className="text-2xl font-semibold">Why choose AgriLink?</h2>
+        <h2 className="text-2xl font-semibold">Why choose QuickCart?</h2>
       </div>
 
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 text-center">

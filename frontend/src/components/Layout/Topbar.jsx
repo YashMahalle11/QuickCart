@@ -19,7 +19,7 @@ const Topbar = () => {
                 </a>
             </div>
             <div className='text-sm text-center flex-grow'>
-                <span>Bridging Farmers & Consumers – Quality, Freshness, Fairness!</span>
+                <span>A Product by ThynkTech – Quality, Freshness, Fairness!</span>
             </div>
             <div className='text-sm hidden md:block'>
                 <a href="tel:+1234567890" className='hover:text-gray-300'>
